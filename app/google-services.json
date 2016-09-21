@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "976369368149",
+    "firebase_url": "https://chat-test-cdadd.firebaseio.com",
+    "project_id": "chat-test-cdadd",
+    "storage_bucket": "chat-test-cdadd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976369368149:android:a166230e45e9e03a",
+        "android_client_info": {
+          "package_name": "com.chat.cociocompany.firebasechattest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976369368149-q0df0b5mqnkm8p7652a5gn1o9mq4rdbs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKxw5IrqrkhsQERQXiOKwwQHpl6K5aHyc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
